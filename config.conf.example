@@ -1,0 +1,10 @@
+[main]
+bot_token = 111111:FFFdAw_pYKyPqZnXgKDz9MqD031sQ0WdGP1
+database_url = http://database.my.ru
+database_user = user
+database_password = password
+dumps_folder = /home/user/dumps
+
+[jobs]
+job1 = FIRST_JENKINS_JOB_NAME
+job2 = SECOND_JENKINS_JOB_NAME

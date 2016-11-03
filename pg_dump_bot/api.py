@@ -43,7 +43,7 @@ class Job(object):
         self.build_task = build_tak
 
 
-class Constantine(object):
+class ConstantineIII(object):
     dump_pattern = re.compile('/dump_(\w*)@?')
     cancel_pattern = re.compile('/cancel_(\w*)@?')
 
